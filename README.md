@@ -24,8 +24,8 @@ Ruby: 3.000 resultados
 # La clasificación de lenguajes según el número de ofertas a nivel mundial y a nivel España.
 | **Lenguaje** | **Resultados (España)** | **Resultados (Mundial)** |
 | ------------ | ---------------------- | ----------------------- |
-| Python       | 18.000                 | 1.101.000               |
 | Java         | 20.000                 | 1.077.000               |
+|  Python      |  18.000                | 1.101.000               |
 | JavaScript   | 18.000                 | 1.007.000               |
 | C++          | 10.000                 | 670.000                 |
 | C#           | 2.000                  | 107.000                 |
