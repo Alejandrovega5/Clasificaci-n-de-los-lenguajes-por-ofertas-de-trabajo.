@@ -14,6 +14,7 @@ Ruby
 
 # La captura de las imágenes deben mostrarse en el documento
 Java nivel España:
-<img width="1549" height="950" alt="image" src="https://github.com/user-attachments/assets/36f0b07d-ee8e-42df-9e90-1dee4d63daed" />
+<img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/63653b8e-af7e-4730-af8b-a21dba386786" />
+
 
 
