@@ -1,7 +1,7 @@
 # Los resultados obtenidos para cada lenguaje.
 Nivel España:
 Java: 20.000 resultados
-# pPython:18.000 resultados
+# p Python:18.000 resultados
 C#: 2.000 resultados
 C: 300 resultados
 C++: 10.000 resultados
