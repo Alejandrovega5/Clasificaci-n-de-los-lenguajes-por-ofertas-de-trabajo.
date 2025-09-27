@@ -1,4 +1,4 @@
-# **Los resultados obtenidos para cada lenguaje.**
+# Los resultados obtenidos para cada lenguaje.
 ## Nivel España:
 Java: 20.000 resultados
 Python:18.000 resultados
@@ -21,7 +21,7 @@ PHP: 81.000 resultados
 VB .NET: 16.000 resultados
 Ruby: 3.000 resultados
 
-# **La clasificación de lenguajes según el número de ofertas a nivel mundial y a nivel España.**
+# La clasificación de lenguajes según el número de ofertas a nivel mundial y a nivel España.
 | **Lenguaje** | **Resultados (España)** | **Resultados (Mundial)** |
 | ------------ | ---------------------- | ----------------------- |
 | Java         | 20.000                 | 1.077.000               |
@@ -35,7 +35,7 @@ Ruby: 3.000 resultados
 | Ruby         | 64                     | 3.000                   |
 
 
-# **La captura de las imágenes deben mostrarse en el documento**
+# La captura de las imágenes deben mostrarse en el documento
 Java nivel España:
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/63653b8e-af7e-4730-af8b-a21dba386786" />
 Java nivel mundial:
