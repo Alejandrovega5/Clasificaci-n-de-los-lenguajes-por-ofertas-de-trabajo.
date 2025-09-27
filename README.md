@@ -38,24 +38,25 @@ Ruby: 3.000 resultados
 # La captura de las imágenes deben mostrarse en el documento
 **Java nivel España:**
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/63653b8e-af7e-4730-af8b-a21dba386786" />
-Java nivel mundial:
+**Java nivel mundial:**
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/9b3ee233-890e-46ee-9e11-03eed52f57c6" />
-Python nivel España:
+**Python nivel España:**
 <img width="1920" height="947" alt="image" src="https://github.com/user-attachments/assets/9a3c7c0a-b476-4257-b3d3-920a14f5e1af" />
-Python nivel mundial:
-C# nivel España:
+**Python nivel mundial:**
+<img width="1920" height="947" alt="image" src="https://github.com/user-attachments/assets/67e015ed-745c-4887-bfe3-e773815174d3" />
+**C# nivel España:**
 <img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/a159f9f0-93d3-4332-878e-1ac8260e0b85" />
-C# nivel mundial:
+**C# nivel mundial:**
 <img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/42031db6-e2e2-441c-a73c-611c1936ca1d" />
-C nivel España:
+**C nivel España:**
 <img width="1920" height="952" alt="image" src="https://github.com/user-attachments/assets/6cf79342-5ee0-445c-a223-14de681258b3" />
-C nivel mundial:
+**C nivel mundial:**
 <img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/628073c0-e4d3-4095-8da4-5801eedf7f40" />
-C++ nivel España:
+**C++ nivel España:**
 <img width="1920" height="953" alt="image" src="https://github.com/user-attachments/assets/ec1df58f-f9df-4725-b6af-6850e0c3433d" />
-C++ nivel mundial:
+**C++ nivel mundial:**
 <img width="1920" height="954" alt="image" src="https://github.com/user-attachments/assets/bc12f5a2-da46-4637-8c83-fb66d2832fa3" />
-JavaScript nivel España:
+**JavaScript nivel España:
 <img width="1920" height="951" alt="image" src="https://github.com/user-attachments/assets/3f64c8de-07e1-4c3a-b430-c1b4b287da09" />
 JavaScript nivel mundial:
 <img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/2e46f5a2-55e7-4031-80dc-ca6c527290d7" />
@@ -70,4 +71,4 @@ VB .NET nivel mundial:
 Ruby nivel España:
 <img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/565fa199-0f3f-4af1-a59d-556a2a3033fa" />
 Ruby nivel mundial:
-<img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/d65894d0-86a3-463d-82f2-e838f4ac5cef" />
+<img width="1920" height="950" alt="image" src="https://github.com/user-attachments/assets/d65894d0-86a3-463d-82f2-e838f4ac5cef" />**
