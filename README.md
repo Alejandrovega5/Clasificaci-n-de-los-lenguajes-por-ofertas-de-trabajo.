@@ -36,6 +36,9 @@ Ruby: 3.000 resultados
 
 
 # La captura de las imágenes deben mostrarse en el documento
+
+<img width="1920" height="1016" alt="image" src="https://github.com/user-attachments/assets/03b250fe-db52-4c6c-b600-d80b7882110e" />
+
 **Java nivel España:**
 <img width="1920" height="955" alt="image" src="https://github.com/user-attachments/assets/63653b8e-af7e-4730-af8b-a21dba386786" />
 **Java nivel mundial:**
